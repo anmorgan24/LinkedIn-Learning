@@ -9,6 +9,7 @@ Exercises, notes, and files from various LinkedIn Learning courses I've complete
 - **Deep Learning: Face Recognition** by Adam Geitgey
 - **Deep Learning: Image Recognition** by Adam Geitgey
 - **Python Statistics Essential Training** by Michelle Valisneri
+- **PyTorch Essential Training: Deep Learning** by Jonathan Fernandes
 - **Neural Networks and Convolutional Neural Networks Essential Training** by Jonathan Fernandes
 - **NLP with Python for Machine Learning Essential Training** by Derek Jedamski
 - **Training Neural Networks in Python** by Eduardo Corpeño
