@@ -16,3 +16,4 @@ Exercises, notes, and files from various LinkedIn Learning courses I've complete
 - **Unit Testing and Test-Driven Development in Python** by Richard Wells
 - **Learning Azure DevOps** by Walt Ritscher
 - **Learning Docker** by Arthur Ulfeldt
+- **Technical SEO** by Dana DiTomaso
