@@ -8,12 +8,13 @@ Exercises, notes, and files from various LinkedIn Learning courses I've complete
 - **Learning Hadoop** by Lynn Langit
 - **Deep Learning: Face Recognition** by Adam Geitgey
 - **Deep Learning: Image Recognition** by Adam Geitgey
-- **Python Statistics Essential Training** by Michelle Valisneri
-- **PyTorch Essential Training: Deep Learning** by Jonathan Fernandes
-- **Neural Networks and Convolutional Neural Networks Essential Training** by Jonathan Fernandes
-- **NLP with Python for Machine Learning Essential Training** by Derek Jedamski
-- **Training Neural Networks in Python** by Eduardo Corpeño
-- **Unit Testing and Test-Driven Development in Python** by Richard Wells
 - **Learning Azure DevOps** by Walt Ritscher
 - **Learning Docker** by Arthur Ulfeldt
+- **Neural Networks and Convolutional Neural Networks Essential Training** by Jonathan Fernandes
+- **NLP with Python for Machine Learning Essential Training** by Derek Jedamski
+- **Python Statistics Essential Training** by Michelle Valisneri
+- **PyTorch Essential Training: Deep Learning** by Jonathan Fernandes
+- **Social Media Monitoring: Strategies and Skills** by Martin Waxman
 - **Technical SEO** by Dana DiTomaso
+- **Training Neural Networks in Python** by Eduardo Corpeño
+- **Unit Testing and Test-Driven Development in Python** by Richard Wells
