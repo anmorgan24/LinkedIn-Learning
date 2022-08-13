@@ -2,6 +2,7 @@
 Exercises, notes, and files from various LinkedIn Learning courses I've completed (or am in the process of completing), including:
 
 - **Apache PySpark by Example** by Jonathan Fernandes
+- **Building a Recommendation System With Python ML & AI** by Lillian Pierson, P.E.
 - **Building and Deploying Deep Learning Applications with TensorFlow** by Adam Geitgey
 - **Building Deep Learning Applications with Keras 2.0** by Adam Geitgey
 - **Introduction to Deep Learning with OpenCV** by Jonathan Fernandes
