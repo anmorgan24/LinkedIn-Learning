@@ -1,5 +1,4 @@
 # LinkedIn Learning
-
 Exercises, notes, and files from various LinkedIn Learning courses I've completed (or am in the process of completing), including:
 
 - **Apache PySpark by Example** by Jonathan Fernandes
