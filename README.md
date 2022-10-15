@@ -13,6 +13,7 @@ Exercises, notes, and files from various LinkedIn Learning courses I've complete
 - **Learning Docker** by Arthur Ulfeldt
 - **Neural Networks and Convolutional Neural Networks Essential Training** by Jonathan Fernandes
 - **NLP with Python for Machine Learning Essential Training** by Derek Jedamski
+- **Python Data Structures and Algorithms** by Robin Andrews
 - **Python Statistics Essential Training** by Michelle Valisneri
 - **PyTorch Essential Training: Deep Learning** by Jonathan Fernandes
 - **Social Media Monitoring: Strategies and Skills** by Martin Waxman
