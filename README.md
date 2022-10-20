@@ -1,6 +1,7 @@
 # LinkedIn Learning
 Exercises, notes, and files from various LinkedIn Learning courses I've completed (or am in the process of completing), including:
 
+- **Advanced AI: Transformers for NLP Using Large Language Models** by Jonathan Fernandes
 - **Apache PySpark by Example** by Jonathan Fernandes
 - **Building a Recommendation System With Python ML & AI** by Lillian Pierson, P.E.
 - **Building and Deploying Deep Learning Applications with TensorFlow** by Adam Geitgey
@@ -9,7 +10,6 @@ Exercises, notes, and files from various LinkedIn Learning courses I've complete
 - **Learning Hadoop** by Lynn Langit
 - **Deep Learning: Face Recognition** by Adam Geitgey
 - **Deep Learning: Image Recognition** by Adam Geitgey
-- **GPT-3 Use Cases** by Jonathan Fernandes
 - **Learning Azure DevOps** by Walt Ritscher
 - **Learning Docker** by Arthur Ulfeldt
 - **Neural Networks and Convolutional Neural Networks Essential Training** by Jonathan Fernandes
