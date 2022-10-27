@@ -3,7 +3,7 @@ Exercises, notes, and files from various LinkedIn Learning courses I've complete
 
 - **Advanced AI: Transformers for NLP Using Large Language Models** by Jonathan Fernandes
 - **Algorithmic Thinking with Python: Diving Deeper** by Robin Andrews
-- **Algorthmic Thinking with Python: Foundations** by Robin Andrews
+- **Algorithmic Thinking with Python: Foundations** by Robin Andrews
 - **Apache PySpark by Example** by Jonathan Fernandes
 - **Building a Recommendation System With Python ML & AI** by Lillian Pierson, P.E.
 - **Building and Deploying Deep Learning Applications with TensorFlow** by Adam Geitgey
