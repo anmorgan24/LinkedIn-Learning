@@ -16,6 +16,7 @@ Exercises, notes, and files from various LinkedIn Learning courses I've complete
 - **Learning Docker** by Arthur Ulfeldt
 - **Neural Networks and Convolutional Neural Networks Essential Training** by Jonathan Fernandes
 - **NLP with Python for Machine Learning Essential Training** by Derek Jedamski
+- **Programming Foundations: Object-Oriented Design** by Barron Stone and Olivia Chiu-Stone
 - **Python Data Structures and Algorithms** by Robin Andrews
 - **Python Object-Oriented Programming** by Joe Marini
 - **Python Statistics Essential Training** by Michelle Valisneri
