@@ -1,5 +1,5 @@
 # LinkedIn Learning
-Exercises, notes, and files from various LinkedIn Learning courses I've completed (or am in the process of completing), including:
+Exercises, notes, and files from various LinkedIn Learning courses I've completed (or am in the process of completing):
 
 - **Advanced AI: Transformers for NLP Using Large Language Models** by Jonathan Fernandes
 - **Algorithmic Thinking with Python: Diving Deeper** by Robin Andrews
