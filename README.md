@@ -12,6 +12,7 @@ Exercises, notes, and files from various LinkedIn Learning courses I've complete
 - **Learning Hadoop** by Lynn Langit
 - **Deep Learning: Face Recognition** by Adam Geitgey
 - **Deep Learning: Image Recognition** by Adam Geitgey
+- **Hands-on PyTorch Machine Learning** by Dr. Helen Sun
 - **Learning Azure DevOps** by Walt Ritscher
 - **Learning Docker** by Arthur Ulfeldt
 - **Neural Networks and Convolutional Neural Networks Essential Training** by Jonathan Fernandes
