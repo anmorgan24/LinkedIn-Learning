@@ -9,6 +9,7 @@ Exercises, notes, and files from various LinkedIn Learning courses I've complete
 - **Building and Deploying Deep Learning Applications with TensorFlow** by Adam Geitgey
 - **Building Deep Learning Applications with Keras 2.0** by Adam Geitgey
 - **Introduction to Deep Learning with OpenCV** by Jonathan Fernandes
+- **Introduction to Prompt Engineering for Generative AI** by Ronnie Sheer
 - **Learning Hadoop** by Lynn Langit
 - **Deep Learning: Face Recognition** by Adam Geitgey
 - **Deep Learning: Image Recognition** by Adam Geitgey
